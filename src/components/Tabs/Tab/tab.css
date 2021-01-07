@@ -1,0 +1,4 @@
+.blocklist {
+    height: calc(100% - 220px);
+    overflow: auto;
+}
